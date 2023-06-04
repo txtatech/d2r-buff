@@ -31,3 +31,11 @@ Note: Make sure the game or application window you want to send key presses to i
 - Adjust the sleep duration in the `time.sleep()` function inside the while loop to control the interval between each iteration of key press checks.
 
 - You can update the `VK_CODES` dictionary to map different special keys to their corresponding virtual key codes if needed.
+
+Copyrights
+Diablo II and Diablo II: Resurrected are copyrighted by Blizzard Entertainment, Inc. All rights reserved. Diablo II, Diablo II: Resurrected and Blizzard Entertainment are trademarks or registered trademarks of Blizzard Entertainment, Inc. in the U.S. and/or other countries.
+All trademarks referenced here are the properties of their respective owners.
+
+Note: For the sake of convenience some text files and dc6 image files that gomule requires are provided in the resources directory. These files are part of the Diablo II game series and are copyrighted by Blizzard Entertainment. They are provided only to save you the trouble of extracting them from the Diablo II game files. If you did not purchase a copy of Diablo II and Diablo II: Resurrected be advised that you may not have perimission to use these files.
+
+This project and its maintainers are not associated with or endorsed by Blizzard Entertainment, Inc.
